@@ -2,26 +2,18 @@
 
 Куда нажать? ПАЧИМУ не работает? Ой, что-то сломалось! Решения этих проблем описаны здесь.
 
-### Шейдинг
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Шейдинг
+# Шейдинг
 
-# Header 1
-## Header 2
-### Header 3
+Начнём с шейдинга. Тут всё примитивно. 
+Вот вам пара пикчей.
 
-- Bulleted
-- List
+<p><a href="https://www.youtube.com/watch?v=wz4akdxropQ&feature=youtu.be">HD Preview Available Here</a>
+<p><a href="http://c1.staticflickr.com/3/2718/32873053592_e8ace37154_k.jpg" rel="nofollow"><img src="http://c1.staticflickr.com/3/2718/32873053592_e8ace37154_k.jpg"></a>
+<p><a href="http://c1.staticflickr.com/3/2673/32987093146_499352cc79_k.jpg" rel="nofollow"><img src="http://c1.staticflickr.com/3/2673/32987093146_499352cc79_k.jpg"></a>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
