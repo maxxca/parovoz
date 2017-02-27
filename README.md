@@ -6,18 +6,12 @@
 
 ```markdown
 # Шейдинг
-
-Начнём с шейдинга. Тут всё примитивно. 
-Вот вам пара пикчей.
-
-[HD Preview Available Here](https://www.youtube.com/watch?v=wz4akdxropQ&feature=youtu.be/).
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
 ```
 
 [HD Preview Available Here](https://www.youtube.com/watch?v=wz4akdxropQ&feature=youtu.be/).
+
 ![GitHub Logo](/images/logo.png)
+
 Format: ![Alt Text](url)
 
 
