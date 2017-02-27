@@ -10,7 +10,7 @@
 
 [HD Preview Available Here](https://www.youtube.com/watch?v=wz4akdxropQ&feature=youtu.be/).
 
-![GitHub Logo](/http://c1.staticflickr.com/1/736/32469689621_de49781a60_k.jpg)
+![GitHub Logo](http://c1.staticflickr.com/1/736/32469689621_de49781a60_k.jpg)
 
 Format: ![Alt Text](http://c1.staticflickr.com/1/505/32552047236_dac1763f77_k.jpg)
 
