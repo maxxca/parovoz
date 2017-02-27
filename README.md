@@ -16,6 +16,11 @@ Format: ![Alt Text](url)
 
 ```
 
+[HD Preview Available Here](https://www.youtube.com/watch?v=wz4akdxropQ&feature=youtu.be/).
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
