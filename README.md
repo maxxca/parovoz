@@ -10,9 +10,9 @@
 
 [HD Preview Available Here](https://www.youtube.com/watch?v=wz4akdxropQ&feature=youtu.be/).
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/http://c1.staticflickr.com/1/736/32469689621_de49781a60_k.jpg)
 
-Format: ![Alt Text](url)
+Format: ![Alt Text](http://c1.staticflickr.com/1/505/32552047236_dac1763f77_k.jpg)
 
 <p><a href="http://c1.staticflickr.com/3/2718/32873053592_e8ace37154_k.jpg" rel="nofollow"><img src="http://c1.staticflickr.com/3/2718/32873053592_e8ace37154_k.jpg"></a>
 <p><a href="http://c1.staticflickr.com/3/2673/32987093146_499352cc79_k.jpg" rel="nofollow"><img src="http://c1.staticflickr.com/3/2673/32987093146_499352cc79_k.jpg"></a>
